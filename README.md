@@ -1,6 +1,9 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+Entry for frontendmentor.io front-end coding challenge.
+The challenge is to build out this blog preview card and get it looking as close to the design as possible.
+Used vanilla CSS for styling
+<!-- ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
@@ -90,4 +93,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
